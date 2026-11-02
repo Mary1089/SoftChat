@@ -22,4 +22,4 @@ Abrir localmente
 
 No requiere instalación ni proceso de compilación. Descarga los archivos y abre `index.html` en un navegador.
 
-La tipografía Nunito Sans se carga desde Google Fonts; si no hay conexión a Internet, se utilizará una fuente alternativa del sistema.
+La tipografía Nunito Sans se carga desde Google Fonts.
