@@ -1,7 +1,5 @@
 # SoftChat Login
 
-# Inicio de sesión de SoftChat
-
 Interfaz estática para el inicio de sesión y el registro de SoftChat.
 
 Funciones
