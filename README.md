@@ -1,1 +1,27 @@
-# SoftChat
+# SoftChat Login
+
+# Inicio de sesión de SoftChat
+
+Interfaz estática para el inicio de sesión y el registro de SoftChat.
+
+Funciones
+
+- Alternar entre Iniciar sesión y Registrarse.
+- Validación básica del correo y comprobación de longitud mínima de contraseña al registrarse.
+- Mostrar u ocultar la contraseña 
+- Opción para recordar datos.
+- Diseño adaptable a pantallas móviles.
+
+Archivos
+
+- `index.html`: estructura, estilos y comportamiento de la interfaz.
+- `softchat-hero.gif`: imagen animada de portada.
+- `softchat-logo.png`: logo de SoftChat.
+
+Mantener los tres archivos en la misma carpeta para que el GIF y el logo carguen correctamente.
+
+Abrir localmente
+
+No requiere instalación ni proceso de compilación. Descarga los archivos y abre `index.html` en un navegador.
+
+La tipografía Nunito Sans se carga desde Google Fonts; si no hay conexión a Internet, se utilizará una fuente alternativa del sistema.
