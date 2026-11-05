@@ -13,7 +13,6 @@ Funciones
 Archivos
 
 - `index.html`: estructura, estilos y comportamiento de la interfaz.
-- `softchat-hero.gif`: imagen animada de portada.
 - `softchat-logo.png`: logo de SoftChat.
 
 Mantener los tres archivos en la misma carpeta para que el GIF y el logo carguen correctamente.
@@ -21,5 +20,3 @@ Mantener los tres archivos en la misma carpeta para que el GIF y el logo carguen
 Abrir localmente
 
 No requiere instalación ni proceso de compilación. Descarga los archivos y abre `index.html` en un navegador.
-
-La tipografía Nunito Sans se carga desde Google Fonts.
